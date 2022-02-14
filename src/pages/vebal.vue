@@ -19,7 +19,7 @@ const {
 const {
   gauges,
   isLoadingGauges,
-} = useGauges(selectedTokens);
+} = useGauges();
 </script>
 
 <template>
